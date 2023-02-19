@@ -2,10 +2,10 @@
 
 ###  Introduce me, Saddam Sinatrya Jalu Mukti
 
-- 🔭 I’m currently working on **face mask detection using ResNet50**
-- 🌱 I’m currently learning **convolution neural network**
-- 👯 I’m looking to collaborate on **covid-tracking mobile app**
-- 🤝 I’m looking for help with **any computer vision projects**
+- 🔭 I’m currently working on **pre-plagiarism system**
+- 🌱 I’m currently learning **android programming with Kotlin**
+- 👯 I’m looking to collaborate on **anything**
+- 🤝 I’m looking for help with **mobile dev**
 - 👨‍💻 All of my projects are available at [Github Pages](http://myxzlpltk.github.io/)
 - 📝 I regularly write articles on [Medium](https://myxzlpltk.medium.com/)
 - 💬 Ask me about **Flutter, ReactJS, and Laravel**
