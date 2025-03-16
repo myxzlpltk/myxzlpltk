@@ -6,10 +6,10 @@
 - 🌱 I’m currently learning **android programming with Kotlin**
 - 👯 I’m looking to collaborate on **anything**
 - 🤝 I’m looking for help with **mobile dev**
-- 👨‍💻 All of my projects are available at [Github Pages](http://myxzlpltk.github.io/)
+- 👨‍💻 All of my projects are available at [Github Pages](https://myxzlpltk.github.io/)
 - 📝 I regularly write articles on [Medium](https://myxzlpltk.medium.com/)
 - 💬 Ask me about **Flutter, ReactJS, and Laravel**
-- 📫 How to reach me **myxzlpltk@gmail.com**
+- 📫 How to reach me **saddam.coder@gmail.com**
 - 📄 Know about my experiences at my [CV](https://docs.google.com/document/d/1xLH3Dk8vcmizpPnb9Z0KvpRQFQuP8rbjqpbbZjcJFfM/view)
 - ⚡ Fun fact **I am still searching the meaning of life**
 
